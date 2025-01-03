@@ -13,6 +13,7 @@
 <body>
 
     <a href="login.jsp">login</a>
+    <a href="register.jsp">register</a>
 
 </body>
 </html>
